@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Web Fullstack</b> | APIs | UX/UI | Logística | Soluções escaláveis
+  <b>Desenvolvedor Web Fullstack</b> | APIs | UX/UI | Automação | Soluções escaláveis | Integração de Inteligência Artificial
 </p>
 
 ---
@@ -21,6 +21,7 @@ Sou um desenvolvedor web fullstack com experiência prática no desenvolvimento 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -81,9 +82,8 @@ O <b>Aurora TMS</b> é um sistema web desenvolvido para revolucionar a gestão d
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Soluções+web+eficientes+e+inteligentes.;Especialista+em+TMS,+APIs+e+experiência+do+usuário."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Especialista+em+TMS,+APIs+e+UX%2FUI."/>
 </p>
-
 ---
 
 <p align="center"><i>“Inovação não é só criar — é resolver, simplificar e escalar.”</i></p>
