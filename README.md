@@ -23,7 +23,6 @@ Sou um desenvolvedor web fullstack com experiência prática no desenvolvimento 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -82,8 +81,6 @@ O <b>Aurora TMS</b> é um sistema web desenvolvido para revolucionar a gestão d
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Especialista+em+TMS,+APIs+e+UX%2FUI."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&background=1E1E1E&center=true&vCenter=true&width=900&height=60&lines=Inova%C3%A7%C3%A3o+n%C3%A3o+%C3%A9+s%C3%B3+criar+%E2%80%94+%C3%A9+resolver%2C+simplificar+e+escalar." />
 </p>
----
 
-<p align="center"><i>“Inovação não é só criar — é resolver, simplificar e escalar.”</i></p>
