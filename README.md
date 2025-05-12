@@ -16,10 +16,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=deividkevin&show_icons=true&theme=radical&hide_title=true&hide_rank=false&count_private=true" height="140"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DevMachad0&show_icons=true&theme=radical&hide_title=true&hide_rank=false&count_private=true" height="140"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividkevin&layout=compact&theme=radical&hide_title=true" height="140"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMachad0&layout=compact&theme=radical&hide_title=true" height="140"/>
     </td>
   </tr>
 </table>
