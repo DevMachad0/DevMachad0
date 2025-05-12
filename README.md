@@ -4,36 +4,8 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Web Fullstack</b> | APIs | UX/UI | Automação | Soluções escaláveis | Integração de IA
+  <b>Desenvolvedor Web Fullstack</b> | APIs | UX/UI | Automação | Soluções escaláveis | Integração de Inteligência Artificial
 </p>
-
----
-
-<div align="center">
-
-### 📊 **Status & Estatísticas**
-
-<table>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMachad0&layout=compact&theme=radical&hide_title=true" height="140"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Botões de contato -->
-<p>
-  <a href="mailto:deividkevin735@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/deivid-kevin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfólio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
-<!-- Badges de status -->
-<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Commits-100%2B-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Issues%20Abertas-0-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Ativas-orange?style=for-the-badge"/>
-
-</div>
 
 ---
 
@@ -95,11 +67,19 @@ O <b>Aurora TMS</b> é um sistema web desenvolvido para revolucionar a gestão d
 |----------------|--------------------------------|-----------|
 | **ChatAurora** | Node.js, Gemini, JS            | Protótipo de chat com IA e múltiplas APIs |
 | **Empdesk**    | MongoDB, HTML, JS              | Painel administrativo simples e funcional |
-| **Aurora-Oraculo** | React, MySQL, Node.js          | Sistema para gerar pesquisas científicas |
+| **Aurora-Oraculo** | React, MySQL, Node.js          | Sistema de para gerar pesquisas científicas |
 
 ---
 
-<!-- Frase de impacto -->
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:deividkevin735@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deivid-kevin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&background=1E1E1E&center=true&vCenter=true&width=900&height=60&lines=Inova%C3%A7%C3%A3o+n%C3%A3o+%C3%A9+s%C3%B3+criar+%E2%80%94+%C3%A9+resolver%2C+simplificar+e+escalar." />
 </p>
