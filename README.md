@@ -4,20 +4,24 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Web Fullstack</b> | APIs | UX/UI | Automação | Soluções escaláveis | Integração de Inteligência Artificial
+  <b>Desenvolvedor Web Fullstack</b> | APIs | UX/UI | Automação | IA | Soluções Escaláveis
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 👋 Você pode me encontrar em:
 
-<div align="justify">
-Sou um desenvolvedor web fullstack com experiência prática no desenvolvimento de aplicações web modernas, APIs RESTful e soluções voltadas para performance, usabilidade e escalabilidade. Tenho foco em projetos com alto impacto, como sistemas logísticos, administrativos e de atendimento, sempre aplicando boas práticas de arquitetura e UX/UI.
-</div>
+<p align="center">
+  <a href="mailto:deividkevin735@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deivid-kevin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/deividkevin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🧰 My stack
+
+> Ferramentas que uso diariamente ou já utilizei em projetos:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -32,55 +36,21 @@ Sou um desenvolvedor web fullstack com experiência prática no desenvolvimento 
 
 ---
 
-## 🌟 Projeto Destaque
+## 📊 GitHub Stats
 
-### 🚛 **Aurora TMS – Inovação na Gestão Logística!**
-
-<div align="justify">
-O <b>Aurora TMS</b> é um sistema web desenvolvido para revolucionar a gestão de entregas, rotas e usuários em empresas de logística. Ele permite gerenciar operações de forma ágil, com visualização via Google Maps, geração de relatórios em PDF, controle de acesso e estrutura multiempresa.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deividkevin&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividkevin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="47%"/>
 </div>
 
-🔧 **Tecnologias utilizadas**  
-- **Frontend:**
-  - ReactJS (com hooks), Vite
-  - CSS customizado
-  - Integração com Google Maps (API)
-  - Geração de relatórios PDF com PDFMake, jsPDF e AutoTable  
-- **Backend:**
-  - Node.js, Express.js
-  - MongoDB com Mongoose  
-- **Outros:**
-  - Integração com ViaCEP (busca de endereço)
-  - Upload de imagens (base64)
-  - Multiempresa (banco individual por empresa)
-  - Autenticação simples (email/senha)
-  - Controle de acesso por tipo de usuário
-
-🚀 **Status**: Em desenvolvimento avançado  
-🔗 Repositório privado (disponível sob demanda)
-
 ---
 
-## 💼 Outros Projetos
+## 💡 Sobre mim
 
-| Projeto         | Tecnologias                    | Descrição |
-|----------------|--------------------------------|-----------|
-| **ChatAurora** | Node.js, Gemini, JS            | Protótipo de chat com IA e múltiplas APIs |
-| **Empdesk**    | MongoDB, HTML, JS              | Painel administrativo simples e funcional |
-| **Aurora-Oraculo** | React, MySQL, Node.js          | Sistema de para gerar pesquisas científicas |
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:deividkevin735@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/deivid-kevin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+Desenvolvedor apaixonado por criar soluções que sejam ao mesmo tempo eficientes, escaláveis e intuitivas. Já atuei em sistemas logísticos, administrativos e aplicações com foco em automação e inteligência artificial.
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&background=1E1E1E&center=true&vCenter=true&width=900&height=60&lines=Inova%C3%A7%C3%A3o+n%C3%A3o+%C3%A9+s%C3%B3+criar+%E2%80%94+%C3%A9+resolver%2C+simplificar+e+escalar." />
 </p>
-
