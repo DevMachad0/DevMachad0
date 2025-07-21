@@ -13,7 +13,6 @@
 
 <p align="center">
   <a href="mailto:deividkevin735@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
   <a href="https://www.linkedin.com/in/deivid-kevin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/deividkevin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -27,7 +26,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Projetos%20ativos-3-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -38,11 +36,19 @@
 
 ---
 
+## 🚧 Projetos em andamento
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projetos%20ativos-3-blue?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMachad0&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMachad0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deividkevin&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividkevin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="47%"/>
 </div>
 
 ---
