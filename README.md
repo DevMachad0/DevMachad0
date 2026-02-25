@@ -1,64 +1,110 @@
 <!-- Banner -->
 <p align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=160&section=header&text=Olá!%20Sou%20Deivid%20Kevin&fontSize=30&fontColor=ffffff" />
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Deivid%20Kevin%20%7C%20Aurora%20AI&fontSize=32&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Web Fullstack</b> | APIs | UX/UI | Automação | IA | Soluções Escaláveis
+  <b>Fullstack Developer • AI Architect • SaaS Builder</b><br>
+  Criador do <b>Aurora</b> — Plataforma de Atendentes Inteligentes com IA
 </p>
 
 ---
 
-## 👋 Você pode me encontrar em:
+## 🚀 Sobre mim
+
+Sou desenvolvedor fullstack focado na construção de **sistemas inteligentes, escaláveis e orientados a automação empresarial**.
+
+Atuo no desenvolvimento de soluções que integram:
+
+- Inteligência Artificial aplicada ao atendimento
+- APIs de alta performance
+- Sistemas SaaS multiempresa
+- Automação de processos comerciais
+- Integrações com WhatsApp, Web e Aplicativos
+
+Atualmente desenvolvo o **Aurora**, uma plataforma completa para criação de **agentes autônomos com IA**, capazes de operar vendas, suporte e agendamentos em escala.
+
+---
+
+## 🧠 Aurora AI Platform
+
+> Plataforma proprietária de automação inteligente
+
+### ⚡ O que é o Aurora?
+
+O **Aurora** é um ecossistema SaaS que permite empresas criarem:
+
+✅ Atendentes virtuais com IA  
+✅ Fluxos automatizados de vendas  
+✅ Agendamento inteligente  
+✅ Integração com WhatsApp oficial (Meta)  
+✅ Gestão multiempresas e múltiplos números  
+✅ Treinamento de IA com documentos próprios  
+
+---
+
+### 🏗️ Arquitetura do Sistema
+
+- Backend distribuído em **Python**
+- APIs REST seguras (HTTP/HTTPS)
+- Frontend em **React + TypeScript**
+- Banco **MongoDB**
+- Armazenamento híbrido (dados + documentos IA)
+- Execução em VPS escalável
+- Estrutura preparada para treinamento de modelos
+
+---
+
+## 🧰 Stack Tecnológica
 
 <p align="center">
-  <a href="mailto:deividkevin735@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/deivid-kevin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/deividkevin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Python-AI%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-API-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-Scale-007ACC?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/MongoDB-Database-4EA94B?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/AI-Automation-9333EA?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧰 My stack
+## 📊 Engenharia & Especialidades
 
-> Ferramentas que uso diariamente ou já utilizei em projetos:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+- Arquitetura SaaS multi-tenant
+- Sistemas orientados a eventos
+- Automação comercial com IA
+- Integrações Meta / WhatsApp API
+- UX orientado a conversão
+- Escalabilidade de aplicações
+- Agentes inteligentes personalizados
 
 ---
 
-## 🚧 Projetos em andamento
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Projetos%20ativos-3-blue?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMachad0&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMachad0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMachad0&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMachad0&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
 </div>
 
 ---
 
-## 💡 Sobre mim
+## 🌐 Contato
 
-Desenvolvedor apaixonado por criar soluções que sejam ao mesmo tempo eficientes, escaláveis e intuitivas. Já atuei em sistemas logísticos, administrativos e aplicações com foco em automação e inteligência artificial.
+<p align="center">
+  <a href="mailto:deividkevin735@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/deivid-kevin">
+    <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/deividkevin">
+    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&background=1E1E1E&center=true&vCenter=true&width=900&height=60&lines=Inova%C3%A7%C3%A3o+n%C3%A3o+%C3%A9+s%C3%B3+criar+%E2%80%94+%C3%A9+resolver%2C+simplificar+e+escalar." />
+  <i>Construindo sistemas que não apenas funcionam — operam, aprendem e escalam.</i>
 </p>
